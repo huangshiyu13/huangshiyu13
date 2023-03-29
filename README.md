@@ -19,7 +19,7 @@
   
 <td valign="top" width="50%">
 
-<p align="center"><a href="https://github.com/retownplato"><img src="https://github-readme-stats.vercel.app/api?username=huangshiyu13&hide_border=true&show_icons=true" alt="Shiyu Huang's github stats"></a></p>
+<p align="center"><a href="https://github.com/retownplato"><img src="https://github-readme-stats-ashen-three-28.vercel.app/api?username=huangshiyu13&hide_border=true&show_icons=true" alt="Shiyu Huang's github stats"></a></p>
   
 </td>
 </tr>
