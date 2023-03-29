@@ -7,7 +7,7 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 <!-- recent_releases starts -->
 
@@ -16,21 +16,11 @@
 
   <!-- recent_releases ends -->
 </td>
-<td valign="top" width="40%">
-
-
-</td>
-</tr>
   
-<tr>
-<td>
-<p align="center"><a href="https://github.com/retownplato"><img src="https://github-readme-stats.vercel.app/api?username=huangshiyu13&hide_border=true&show_icons=true" alt="Shiyu Huang's github stats"></a></p>
+<td valign="top" width="50%">
 
-</td>
-<td>
-<a href="https://github.com/retownplato">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangshiyu13&layout=compact" />
-</a>
+<p align="center"><a href="https://github.com/retownplato"><img src="https://github-readme-stats.vercel.app/api?username=huangshiyu13&hide_border=true&show_icons=true" alt="Shiyu Huang's github stats"></a></p>
+  
 </td>
 </tr>
 
