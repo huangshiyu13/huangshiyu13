@@ -1,5 +1,4 @@
-
-
+[OpenRL](https://github.com/OpenRL-Lab) | [知乎](https://www.zhihu.com/people/huangshiyu.me/) | [Google Scholar](https://scholar.google.com/citations?user=PK57vrQAAAAJ&hl=en) | [Linkedin](https://www.linkedin.com/in/shiyu-huang-841b92106/)
 
 <table align="center">
 <tr>
