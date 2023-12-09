@@ -3,7 +3,7 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="80%">
 
 <!-- recent_releases starts -->
 
@@ -13,10 +13,6 @@
 - ![](https://komarev.com/ghpvc/?username=huangshiyu13&color=lightgrey&label=Views) ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
   <!-- recent_releases ends -->
 </td>
-  
-<td valign="top" width="50%">
-
-<p align="center"><a href="https://github.com/retownplato"><img src="https://github-readme-stats-ashen-three-28.vercel.app/api?username=huangshiyu13&hide_border=true&show_icons=true" alt="Shiyu Huang's github stats"></a></p>
   
 </td>
 </tr>
