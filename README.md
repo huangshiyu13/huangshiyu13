@@ -4,7 +4,7 @@
 <tr>
 <td valign="top" width="100%">
 
-[OpenRL](https://github.com/OpenRL-Lab) | [知乎](https://www.zhihu.com/people/huangshiyu.me/) | [Google Scholar](https://scholar.google.com/citations?user=PK57vrQAAAAJ&hl=en) | [Linkedin](https://www.linkedin.com/in/shiyu-huang-841b92106/) | [Personal Website](http://tartrl.cn/people/huangshiyu/)
+[OpenRL](https://github.com/OpenRL-Lab) | [知乎](https://www.zhihu.com/people/huangshiyu.me/) | [Google Scholar](https://scholar.google.com/citations?user=PK57vrQAAAAJ&hl=en) | [Linkedin](https://www.linkedin.com/in/shiyu-huang-841b92106/) | [Personal Website](http://mm-lab.cn/hsy)
 
 <!-- recent_releases starts -->
 - Hi, I am a researcher at XPeng Inc. Before that, I worked as a researcher in Zhipu AI and 4Paradigm Inc., and I am the leader of the OpenRL Lab. I received my B.E. and Ph. D. degrees (co-advised by Prof. Jun Zhu and Prof. Ting Chen) from the Department of Computer Science and Technology, Tsinghua University in July, 2017 and June, 2022. My researches focus on deep reinforcement learning, multi-agent reinforcement learning, distributed reinforcement learning, RL for robotics, LLM as agent, artificial general intelligence (AGI) and generative artificial intelligence (GAI). I have also spent time working at RealAI Inc. , Huawei Noah's Ark Lab, Tencent AI Lab, Carnegie Mellon University and Sensetime Inc. . And I am also the founder of the OpenRL Lab and TARTRL group.
