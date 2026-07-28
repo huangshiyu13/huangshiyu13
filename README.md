@@ -6,6 +6,11 @@
 
 [OpenRL](https://github.com/OpenRL-Lab) | [知乎](https://www.zhihu.com/people/huangshiyu.me/) | [Google Scholar](https://scholar.google.com/citations?user=PK57vrQAAAAJ&hl=en) | [Linkedin](https://www.linkedin.com/in/shiyu-huang-841b92106/) | [Personal Website](https://huangshiyu13.github.io/)
 
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/huangshiyu13/huangshiyu13/output/github-contribution-grid-snake.svg)
+</div>
+
 <!-- recent_releases starts -->
 - Hi, I am a principal researcher at XPeng Inc. Before that, I worked as a researcher in Zhipu AI and 4Paradigm Inc., and I am the leader of the OpenRL Lab. I received my B.E. and Ph. D. degrees (co-advised by Prof. Jun Zhu and Prof. Ting Chen) from the Department of Computer Science and Technology, Tsinghua University in July, 2017 and June, 2022. My researches focus on large language models, multimodal large language models, agents, and deep reinforcement learning. I have also spent time working at RealAI Inc. , Huawei Noah's Ark Lab, Tencent AI Lab, Carnegie Mellon University and Sensetime Inc. . And I am also the founder of the OpenRL Lab and TARTRL group.
 - We are looking for self-motivated interns and full-timers who have a strong background in mathematics/computer science and are eager to get involved in cutting-edge, fundamental AI research. Please feel free to drop me an email if you are interested in collaborating with me.
