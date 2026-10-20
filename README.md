@@ -4,7 +4,7 @@
 <tr>
 <td valign="top" width="100%">
 
-[OpenRL](https://github.com/OpenRL-Lab) | [知乎](https://www.zhihu.com/people/huangshiyu.me/) | [Google Scholar](https://scholar.google.com/citations?user=PK57vrQAAAAJ&hl=en) | [Linkedin](https://www.linkedin.com/in/shiyu-huang-841b92106/) | [Personal Website](https://huangshiyu13.github.io/)
+[OpenRL](https://github.com/OpenRL-Lab) | [知乎](https://www.zhihu.com/people/huangshiyu.me/) | [小红书](https://xhslink.cn/o/883nXH4i0jP) | [Google Scholar](https://scholar.google.com/citations?user=PK57vrQAAAAJ&hl=en) | [Linkedin](https://www.linkedin.com/in/shiyu-huang-841b92106/) | [Personal Website](https://huangshiyu13.github.io/)
 
 <div align="center">
 
